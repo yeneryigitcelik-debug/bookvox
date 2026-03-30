@@ -1,0 +1,1 @@
+- [BookVox Project](project_bookvox.md) — iOS audiobook app, 52 Swift files, MVVM+SwiftData, Supabase placeholder
